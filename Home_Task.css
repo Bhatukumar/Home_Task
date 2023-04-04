@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(7, 34, 59);
+}
+
+.title-bg{
+    background-color: white;
+    padding: 0.5% 6%;
+    margin: 1%;
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1% 3%;
+}
+.flex1{
+    display: flex;
+}
+
+
+img{
+    border: 2px solid black;
+}
+.img-set{
+    padding: 2%;
+    padding-left: 1%;
+    /* border: 2px solid black; */
+    /* border-color: black; */
+    /* background-color: rgb(191, 250, 123); */
+}
+
+.para{
+    padding: 1%;
+    /* justify-content: center; */
+    margin: 0 auto;
+}
+
+.title-padding{
+    padding: 2% 0;
+}
+.padding-one{
+    padding: 1% 0;
+}
+
+hr{
+    margin:0 2% ;
+}
+.margin-nome{
+    margin: 0;
+}
+.button-sub{
+    background-color: black;
+    color: white;
+    border: none;
+    
+    padding: 1%;
+    cursor: pointer;
+    margin: 0;
+}
+.button-margin{
+    margin: 2% 0;
+}
+.button-css {
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .button-css:hover{
+    background-color: rgb(218, 67, 12);
+  }
+
+  .drop-box{
+    padding: 1%;
+    width: 90%;
+    margin: 1.5% 0;
+  }

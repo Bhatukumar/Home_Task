@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: aqua; */
+}
+
+.background-C{
+    background-color: aqua;
+}
+
+.reg-border{
+    border: 20px;
+    border-color: black;
+}
+
+.container{
+    margin:auto;
+    background-color: orange;
+    width: 50%;
+    padding: 10px;
+    justify-content: center;
+
+}
+.text-center{
+    text-align: center;
+}
+.padding-max{
+    padding: 5%;
+}
+.padding-all{
+    padding: 10px;
+}
+.line-up{
+    display: flex;  
+    padding: 5px;
+}
+table, th, td {
+    border: 1px solid;
+    border-color: black;
+  }
